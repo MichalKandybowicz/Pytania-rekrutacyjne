@@ -716,7 +716,7 @@ jako iterator. Przykłady obejmują mnożenie elementów przez stałą wartość
 Przykłady obejmują filtrowanie liczb parzystych, usuwanie pustych ciągów znaków itp.
 
 3. **reduce()**: Jest stosowana, gdy chcemy zredukować kolekcję do pojedynczej wartości, łącząc wszystkie elementy za 
-pomocą określonej operacji. Przykłady obejmują sumowanie wszystkich elementów, ł3. ączenie ciągów znaków, 
+pomocą określonej operacji. Przykłady obejmują sumowanie wszystkich elementów, łączenie ciągów znaków, 
 znajdowanie maksimum lub minimum itp.
 
 
